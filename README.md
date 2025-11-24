@@ -1,4 +1,4 @@
-﻿# Background
+# Background
 Road traffic accidents are a major public safety concern worldwide, causing significant loss of life, injuries, and economic damage each year. With the help of accident data, Machine Learning models can be used to capture complex, non linear and hidden relationships to determine if a road crash is slight, serious or fatal. 
 
 # Aim of the Project
@@ -52,6 +52,7 @@ Neural Network
 Special thanks to:
 
 📊 Providers of the dataset used for training the models
+
 
 
 
