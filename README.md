@@ -1,7 +1,8 @@
-﻿# Accident Severity Prediction
-Road traffic accidents are a major public safety concern worldwide, causing significant loss of life, injuries, and economic damage each year. Understanding and predicting the severity of these accidents can help authorities and policymakers deploy preventive measures, optimize emergency response, and improve road safety strategies.
+﻿# Background
+Road traffic accidents are a major public safety concern worldwide, causing significant loss of life, injuries, and economic damage each year. With the help of accident data, Machine Learning models can be used to capture complex, non linear and hidden relationships to determine if a road crash is slight, serious or fatal. 
 
-This project applies machine learning techniques to analyze traffic accident data and predict accident severity based on factors such as road conditions, weather, time of day, and vehicle involvement. The goal is to develop a predictive model that can assist in proactive safety measures, enhance situational awareness, and ultimately reduce the human and economic toll of road accidents.
+# Aim of the Project
+This project applies machine learning techniques to analyze traffic accident data and predict accident severity based on factors such as road conditions, weather, time of day, and vehicle involvement. The goal is to develop a predictive model that helps traffic authorities and policymakers to take preventive measures and improve road safety strategies, thereby reducing casualties.
 
 # 📋 Project Overview
 The project involves:
@@ -30,6 +31,7 @@ Tree based models:
 - Decision Tree
 - Random Forest
 - Xgboost
+
 Neural Network
 
 # Results
@@ -50,5 +52,6 @@ Neural Network
 Special thanks to:
 
 📊 Providers of the dataset used for training the models
+
 
 
